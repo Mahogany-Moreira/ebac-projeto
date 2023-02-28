@@ -6,9 +6,9 @@ Repositório criado para envio de atividade do curso de Analista de Dados da EBA
 
 Conforme solicitado nos exercícios, adicionei mais 3 arquivos ao projeto:
 
-*-gasolina.csv* /
-*-gasolina.png* /
-*gasolina-py*
+*gasolina.csv* /
+*gasolina.png* /
+*gasolina.py*
 
 
 O arquivo adicionado inicialmente não tem relação com os demais arquivos enviados, pois inicialmente foi um teste com a ferramenta.
